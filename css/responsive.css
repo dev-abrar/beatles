@@ -1,0 +1,627 @@
+@media (min-width: 1400px) {
+    .banner_text p {
+        font-size: 16px;
+        padding-left: 290px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .banner_text h1 {
+        margin-bottom: 20px;
+    }
+
+    .common_head h2 {
+        font-size: 25px;
+    }
+
+    .banner_text p {
+        font-size: 16px;
+        padding-left: 155px;
+    }
+
+    .team_text p {
+        font-size: 15px;
+    }
+
+    .foot_menu ul li {
+        margin-right: 20px;
+    }
+
+    .foot_menu ul li a {
+        font-size: 13px;
+    }
+
+    .foot1 p {
+        font-size: 14px;
+    }
+
+    .foot21 a {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+    .banner_text h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text p {
+        font-size: 15px;
+        padding-left: 75px;
+    }
+
+    .common_head h2 {
+        font-size: 21px;
+    }
+
+    .service_col p {
+        font-size: 14px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text p {
+        font-size: 14px;
+    }
+
+    .test_col p {
+        font-size: 14px;
+    }
+
+    .foot1 p {
+        font-size: 13px;
+    }
+
+    .foot21 a {
+        font-size: 13px;
+    }
+
+    .foot_menu ul li a {
+        font-size: 14px;
+    }
+
+    .footer_bottom p {
+        font-size: 14px;
+    }
+
+    .foot_menu ul li {
+        margin-right: 11px;
+    }
+
+    .foot_menu ul li a {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header_icon i {
+        font-size: 13px;
+        margin-left: 7px;
+    }
+
+    .navbar-toggler:focus {
+        -webkit-box-shadow: 0 0 0 0;
+        box-shadow: 0 0 0 0;
+    }
+
+    .fa-bars {
+        color: #2c2b2b;
+        font-size: 16px;
+    }
+
+    .navbar {
+        padding-top: 6px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+
+    .banner_text p {
+        padding-left: 75px;
+    }
+
+    /* ========== about area start ========== */
+    #about {
+        text-align: center;
+    }
+
+    .about_text {
+        margin-top: 0;
+    }
+
+    .about_text p {
+        font-size: 15px;
+    }
+
+    .common_head h2 {
+        font-size: 22px;
+    }
+
+    /* ========== about area end ========== */
+
+    /* ========== service area start ========== */
+    #service {
+        padding-bottom: 60px;
+        text-align: center;
+    }
+
+    .service_col {
+        margin-top: 50px;
+    }
+
+    .ser_row {
+        margin-top: 0px;
+    }
+
+    /* ========== service area end ========== */
+
+    /* ========== portfolio area start ========== */
+    #portfolio {
+        margin-bottom: 60px;
+        text-align: center;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 20px;
+    }
+
+    /* ========== portfolio area end ========== */
+
+    /* ========== team area start ========== */
+    #team {
+        text-align: center;
+    }
+
+    .team_text {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        text-align: center;
+    }
+
+    .test_col p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .foot1 p {
+        font-size: 14px;
+    }
+
+    .foot1 p span {
+        margin-top: 15px;
+    }
+
+    /* ========== team area end ========== */
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* =============== header area start ========= */
+    .header_icon i {
+        font-size: 13px;
+        margin-left: 7px;
+    }
+
+    /* =============== header area end ========= */
+
+
+    /* =============== navbar area start ========= */
+    .navbar-toggler:focus {
+        -webkit-box-shadow: 0 0 0 0;
+        box-shadow: 0 0 0 0;
+    }
+
+    .fa-bars {
+        color: #2c2b2b;
+        font-size: 16px;
+    }
+
+    .navbar {
+        padding-top: 6px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    /* =============== navbar area end ========= */
+
+    /* =============== banner area start ========= */
+    .banner_text h1 {
+        font-size: 40px;
+        margin-bottom: 8px;
+    }
+
+    .banner_text h2 {
+        font-size: 28px;
+        margin-bottom: 8px;
+    }
+
+    .banner_button button {
+        font-size: 14px;
+        padding: 3px 14px;
+        margin-left: 10px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    /* =============== banner area end ========= */
+
+    /* =============== about area start ========= */
+    .common_head h2 {
+        font-size: 24px;
+    }
+
+    .about_text p {
+        color: var(--p);
+        font-size: 14px;
+        font-weight: 400;
+        font-family: var(--f1);
+        line-height: 22px;
+    }
+
+    #about {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .common_head {
+        margin-bottom: 30px;
+    }
+
+    .about_text {
+        margin-top: 25px;
+    }
+
+    .about_text p span {
+        margin-top: 10px;
+    }
+
+    /* =============== about area end ========= */
+
+    /* =============== service area start ========= */
+    .service_col p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 40px;
+    }
+
+    #service {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .service_col {
+        margin-top: 50px;
+    }
+
+    .ser_row {
+        margin-top: -15px;
+    }
+
+    /* =============== service area end ========= */
+
+    /* =============== portfolio area start ========= */
+    #portfolio {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 20px;
+    }
+
+
+    /* =============== portfolio area end ========= */
+
+    /* =============== team area start ========= */
+    #team {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .team_text {
+        margin-bottom: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text p {
+        font-size: 14px;
+    }
+
+    #testimonial {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .tes_img {
+        margin-top: 30px;
+    }
+
+    .test_col h6 {
+        font-size: 16px;
+    }
+
+    .test_col p {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 0 15px;
+    }
+
+    /* =============== team area end ========= */
+
+    /* =============== footer area start ========= */
+    .foot1 p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 15px;
+    }
+
+    .foot1 p span {
+        margin-top: 15px;
+    }
+
+    .foot2 h3 {
+        font-size: 18px;
+        margin-bottom: -18px;
+        margin-top: 20px;
+    }
+
+    .footer_bottom p {
+        font-size: 13px;
+    }
+
+    .foot_menu ul li a {
+        font-size: 14px;
+    }
+
+    .foot21 a {
+        font-size: 14px;
+    }
+
+    /* =============== footer area end ========= */
+}
+
+@media (max-width: 575.99px) {
+
+    /* =============== header area start ========= */
+    .header_icon i {
+        font-size: 13px;
+        margin-left: 7px;
+    }
+
+    /* =============== header area end ========= */
+
+
+    /* =============== navbar area start ========= */
+    .navbar-toggler:focus {
+        -webkit-box-shadow: 0 0 0 0;
+        box-shadow: 0 0 0 0;
+    }
+
+    .fa-bars {
+        color: #2c2b2b;
+        font-size: 15px;
+    }
+
+    .navbar-brand {
+        -webkit-transform: scale(.9);
+        -ms-transform: scale(.9);
+        transform: scale(.9);
+    }
+
+    .navbar {
+        padding-top: 2px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    /* =============== navbar area end ========= */
+
+    /* =============== banner area start ========= */
+    .banner_text h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .banner_button button {
+        font-size: 13px;
+        padding: 1px 10px;
+        margin-left: 10px;
+    }
+
+    /* =============== banner area end ========= */
+
+    /* =============== about area start ========= */
+    .common_head h2 {
+        font-size: 22px;
+    }
+
+    .about_text p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #about {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .common_head {
+        margin-bottom: 30px;
+    }
+
+    .about_text {
+        margin-top: 25px;
+    }
+
+    .about_text p span {
+        margin-top: 10px;
+    }
+
+    /* =============== about area end ========= */
+
+    /* =============== service area start ========= */
+    .service_col p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #service {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .service_col {
+        margin-top: 50px;
+    }
+
+    .ser_row {
+        margin-top: -15px;
+    }
+
+    /* =============== service area end ========= */
+
+    /* =============== portfolio area start ========= */
+    #portfolio {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 20px;
+    }
+
+
+    /* =============== portfolio area end ========= */
+
+    /* =============== team area start ========= */
+    #team {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .team_text {
+        margin-bottom: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text p {
+        font-size: 14px;
+    }
+
+    #testimonial {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .tes_img {
+        margin-top: 30px;
+    }
+
+    .test_col h6 {
+        font-size: 14px;
+    }
+
+    .test_col p {
+        font-size: 13px;
+        line-height: 18px;
+        padding: 0 15px;
+    }
+
+    /* =============== team area end ========= */
+
+    /* =============== footer area start ========= */
+    .foot1 p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 15px;
+    }
+
+    .foot1 p span {
+        margin-top: 15px;
+    }
+
+    .foot2 h3 {
+        font-size: 18px;
+        margin-bottom: -18px;
+        margin-top: 40px;
+    }
+
+    .foot3 h3 {
+        margin-bottom: -5px;
+        margin-top: 40px;
+    }
+
+    .footer_bottom p {
+        font-size: 13px;
+    }
+
+    /* =============== footer area end ========= */
+}
+
+@media (min-width: 410px) and (max-width: 575.99px) {
+    .banner_text h1 {
+        font-size: 35px;
+        margin-bottom: 14px;
+    }
+
+    .banner_text h2 {
+        font-size: 26px;
+        margin-bottom: 8px;
+    }
+
+    .about_text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .service_col p {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0 25px;
+    }
+}
